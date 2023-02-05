@@ -8,6 +8,9 @@ How to reach me:
    -Email: shreyas.bhat@columbia.edu
    -Linkedin: www.linkedin.com/in/bshreyas
    
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=angular-web-portfolio)](https://github.com/minoveaz/angular-web-portfolio)
+
+   
 <!--
 **Sbhat92/Sbhat92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
