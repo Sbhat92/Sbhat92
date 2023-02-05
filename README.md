@@ -10,7 +10,7 @@ How to reach me:
 
 Some cool projects I have been working on:
   ### 🛠️ My Projects
-<a href="(https://github.com/Sbhat92/Smart-Photo-Album)" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="(https://github.com/Sbhat92/Smart-Photo-Album)" target="_blank"> <src="./projects/Smart-Photo-Album.svg" height="68" align="left"> </a>
 
    
 <!--
