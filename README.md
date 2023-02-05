@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 I am Shreyas Bhat, a Master's student in Computer Science at Columbia University
+
 I am interested in machine learning, NLP and large scale systems.
+
+How to reach me:
+   -Email: shreyas.bhat@columbia.edu
+   -Linkedin: www.linkedin.com/in/bshreyas
    
 <!--
 **Sbhat92/Sbhat92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
