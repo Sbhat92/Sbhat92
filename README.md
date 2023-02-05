@@ -8,9 +8,7 @@ How to reach me:
    -Email: shreyas.bhat@columbia.edu
    -Linkedin: www.linkedin.com/in/bshreyas
 
-Some cool projects I have been working on:
-  ### 🛠️ My Projects
-<a href="(https://github.com/Sbhat92/Smart-Photo-Album)" target="_blank"> <src="./projects/Smart-Photo-Album.svg" height="68" align="left"> </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sbhat92)](https://github.com/anuraghazra/github-readme-stats)
 
    
 <!--
