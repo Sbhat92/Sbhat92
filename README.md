@@ -7,8 +7,9 @@ I am interested in machine learning, NLP and large scale systems.
 How to reach me:
    -Email: shreyas.bhat@columbia.edu
    -Linkedin: www.linkedin.com/in/bshreyas
-   
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=angular-web-portfolio)](https://github.com/minoveaz/angular-web-portfolio)
+
+Some cool projects I have been working on:
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=angular-web-portfolio)]([https://github.com/minoveaz/angular-web-portfolio](https://github.com/Sbhat92/Smart-Photo-Album))
 
    
 <!--
